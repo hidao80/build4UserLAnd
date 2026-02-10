@@ -8,6 +8,8 @@ A collection of one-liners for installing the Android app "UserLAnd" in an Ubunt
 ## Issues & Reasons
 Designed for using LLM AI on Android.
 
+<img height="600px" src="https://github.com/user-attachments/assets/7cbb3105-cb04-4f88-a1a8-3be09eaff6ba">
+
 ## ✨ Features
 
 - Build llama.cpp in UserLAnd, download Qwen2.5-3B-Instruct-GGUF:Q4_K_M, and make the WebUI accessible on port 8080.
