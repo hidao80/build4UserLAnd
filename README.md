@@ -14,6 +14,11 @@ Designed for using LLM AI on Android.
 
 ## 🚀 Quick Start
 
+**Preparation**
+```sh
+sudo apt update && sudo apt upgrade -y && sudo apt install -y ca-certificates
+```
+
 **llama.cpp (use sudo)**
 ```sh
 curl -fsSL https://github.com/hidao80/build4UserLAnd/releases/download/llama0.0.1/llama.sh | sh
