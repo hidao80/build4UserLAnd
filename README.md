@@ -18,3 +18,11 @@ Designed for using LLM AI on Android.
 ```sh
 curl -fsSL https://github.com/hidao80/build4UserLAnd/releases/download/v0.0.1/inst.sh | sh
 ```
+
+## 🤝 Contributing
+
+Bug reports and pull requests are welcome.
+
+## 📄 License
+
+MIT
