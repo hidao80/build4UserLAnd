@@ -1,8 +1,8 @@
-#!/bin/sh
+#!/bin/sh -e
 
 # Install build tools & libraries
 sudo apt update
-sudo apt install -y cmake build-essential libssl-div
+sudo apt install -y cmake build-essential libssl-dev git
 
 # Download newest source code
 git clone https://github.com/ggml-org/llama.cpp.git --depth=1
