@@ -16,7 +16,7 @@ Designed for using LLM AI on Android.
 
 **llama.cpp (use sudo)**
 ```sh
-curl -fsSL https://github.com/hidao80/build4UserLAnd/releases/download/v0.0.1/inst.sh | sh
+wget -qO- https://github.com/hidao80/build4UserLAnd/releases/download/v0.0.1/inst.sh | sh
 ```
 
 ## 🤝 Contributing
