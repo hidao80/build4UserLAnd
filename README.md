@@ -13,6 +13,7 @@ Designed for using LLM AI on Android.
 ## ✨ Features
 
 - Build llama.cpp in UserLAnd, download Qwen2.5-3B-Instruct-GGUF:Q4_K_M, and make the WebUI accessible on port 8080.
+  - **Note**: UserLAnd does not currently support GPU acceleration (Vulkan, CUDA, etc.). llama.cpp will run on CPU only.
 
 ## 🚀 Quick Start
 
